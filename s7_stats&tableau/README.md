@@ -1,3 +1,5 @@
+[Tableau Tutorial - 3 Important Concepts you NEED to know - YouTube](https://www.youtube.com/watch?v=4fst9Zm4-BM&list=PLssCT4JSGVsf5_49Ljua05vrPfXzcsMER&index=3)
+
 [Hans Rosling's 200 Countries, 200 Years, 4 Minutes - The Joy of Stats - BBC Four - YouTube](https://www.youtube.com/watch?v=jbkSRLYSojo)
 
 # Top resources  
@@ -49,6 +51,20 @@ https://www.youtube.com/watch?v=TPMlZxRRaBQ
 
 [Profile - datacamp.introduction.to.tableau | Tableau Public](https://public.tableau.com/app/profile/datacamp.introduction.to.tableau#!/)
 
+
+## maps  
+
+[The 7 Best Thematic Map Types for Geospatial Data | by Abdishakur | Towards Data Science](https://towardsdatascience.com/the-7-best-thematic-map-types-for-geospatial-data-34d21b8b475)
+
+
+## flow diagrams  
+
+[RPubs - Family Planning Dynamics Data: Chord vs. Sankey](https://rpubs.com/YJ_Choi/FPDynamicsData)
+
+
+## Line vs area charts  
+
+[What to consider when creating area charts](https://blog.datawrapper.de/area-charts/) 
 
 ## resources to be explored  
 

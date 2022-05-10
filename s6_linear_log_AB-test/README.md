@@ -1,5 +1,7 @@
 ## useful links 
 
+[python - Generate random array of 0 and 1 with a specific ratio - Stack Overflow](https://stackoverflow.com/questions/21566744/generate-random-array-of-0-and-1-with-a-specific-ratio) 
+
 [Datacamp - supervised learning with sickit learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
 
 [How do A/B tests work?. A look inside one of the most powerful… | by Cassie Kozyrkov | Towards Data Science](https://towardsdatascience.com/how-do-a-b-tests-work-996842ce6fc0) 

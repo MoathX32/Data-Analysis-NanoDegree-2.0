@@ -4,6 +4,8 @@
 
 [Visualize the Normal Distribution](https://istats.shinyapps.io/NormalDist/) 
 
+[Bye-bye Jupyter Notebook. Hello DataSpell! | by Frank Andrade | Geek Culture | Apr, 2022 | Medium](https://medium.com/geekculture/bye-bye-jupyter-notebook-hello-dataspell-d1eaa590235b)
+
 ## Useful links for lefthanded project   
  
 [Python Functions](https://www.w3schools.com/python/python_functions.asp) 

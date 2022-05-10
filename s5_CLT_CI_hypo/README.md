@@ -31,6 +31,8 @@
 
 [Bootstrapping Part 2: Calculating p-values!!! - YouTube](https://www.youtube.com/watch?v=N4ZQQqyIf6k) 
 
+[bshypothesis.pdf](http://www.stat.ucla.edu/~rgould/110as02/bshypothesis.pdf)   # a more than perfect illustration for p values using bootstrap
+
 ## python packages   
 
 [bootstrapped · PyPI](https://pypi.org/project/bootstrapped/) 
@@ -43,15 +45,13 @@
 
 [Association_Quantitative](https://istats.shinyapps.io/Association_Quantitative/)
 
-
 [simple_regression - shiny](https://gallery.shinyapps.io/simple_regression/)
 
-
 [The Central Limit Theorem and its misuse](https://lambdaclass.com/data_etudes/central_limit_theorem_misuse/)
-
  
 [Confidence interval or p-value?: part 4 of a series on evaluation of scientific publications - PubMed](https://pubmed.ncbi.nlm.nih.gov/19547734/) 
 
 [variance - Pros and cons of bootstrapping - Cross Validated](https://stats.stackexchange.com/questions/280725/pros-and-cons-of-bootstrapping) 
 
-bo[otstrap - Why should boostrap sample size equal the original sample size? - Cross Validated](https://stats.stackexchange.com/questions/263710/why-should-boostrap-sample-size-equal-the-original-sample-size) 
+[bootstrap - Why should boostrap sample size equal the original sample size? - Cross Validated](https://stats.stackexchange.com/questions/263710/why-should-boostrap-sample-size-equal-the-original-sample-size) 
+
