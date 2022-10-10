@@ -2,7 +2,6 @@
 
 [Lessons on How to Lie with Statistics | by Will Koehrsen | Towards Data Science](https://towardsdatascience.com/lessons-from-how-to-lie-with-statistics-57060c0d2f19)
 
-
 [Were 21% of New York City residents really infected with the novel coronavirus? | by Cassie Kozyrkov | Towards Data Science](https://towardsdatascience.com/were-21-of-new-york-city-residents-really-infected-with-covid-19-aab6ebefda0) 
 
 
@@ -30,7 +29,78 @@
 
 [Introduction to Probability | 365 Data Science Online Course - YouTube](https://www.youtube.com/watch?v=soZRfdnkUQg&list=PLaFfQroTgZnxtnfht3BzBHVfxodX9AR9F&index=15)  
 
-## Distributions  
+
+## setup  and troubleshooting
+
+[conda-cheatsheet.pdf](https://docs.conda.io/projects/conda/en/latest/_downloads/843d9e0198f2a193a3484886fa28163c/conda-cheatsheet.pdf)
+
+[How to set up Anaconda and Jupyter Notebook the right way | by Justin Güse | Towards Data Science](https://towardsdatascience.com/how-to-set-up-anaconda-and-jupyter-notebook-the-right-way-de3b7623ea4a)   This is the main article that can be used for installation. 
+
+[Config option `template_path` not recognized by `LenvsLatexExporter`. Did you mean one of: `template_file, template_name, template_paths`? · Issue #1529 · ipython-contrib/jupyter_contrib_nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions/issues/1529)
+
+[Managing environments — conda 4.9.2.post41+a3a31ff0 documentation](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#managing-environments) 
+
+[12. Virtual Environments and Packages — Python 3.9.2 documentation](https://docs.python.org/3/tutorial/venv.html)
+
+[Kernal Error - FileNotFoundError: [WinError 2] The system cannot find the file specified · Issue #4079 · jupyter/notebook](https://github.com/jupyter/notebook/issues/4079)   This solved the kernel error issue 
+
+[Installing Python Packages from a Jupyter Notebook | Pythonic Perambulations](https://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/)
+
+[Anaconda and Jupyter Notebooks - Udacity](https://classroom.udacity.com/courses/ud1111)
+
+
+## life easier   
+
+[List of provided nbextensions — jupyter_contrib_nbextensions 0.5.0 documentation](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/nbextensions.html)
+
+[Handy Python Libraries for Formatting and Cleaning Data](https://mode.com/blog/python-data-cleaning-libraries/) 
+
+[How to Extract (Unzip) Tar Gz File | Linuxize](https://linuxize.com/post/how-to-extract-unzip-tar-gz-file/)
+
+[Cleaning Categorical Data: Intermediate Guide with Pandas | Towards Data Science](https://towardsdatascience.com/master-the-most-hated-task-in-ds-ml-3b9779276d7c#64a4) 
+
+
+
+## Python resources  
+
+[Python for data analysis book](http://www.ruxizhang.com/uploads/4/4/0/2/44023465/python_for_data_analysis.pdf)
+
+[Introduction to Python Programming - Udacity](https://classroom.udacity.com/courses/ud1110)
+
+[Intro to Data Analysis - Udacity](https://classroom.udacity.com/courses/ud170) 
+
+[Which AI Code Autocomplete Should You Choose? | The Startup](https://medium.com/swlh/kite-vs-tabnine-which-ai-code-autocomplete-should-you-choose-eb6eba85c3a6#:~:text=TabNine%20was%20released%20in%202019,Atom%2C%20Sublime%20Text%2C%20etc.) 
+
+
+
+## Pandas  
+
+[Minimally Sufficient Pandas| by Ted Petrou | Dunder Data | Medium](https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428)
+
+[Pandas Tutorials - Corey schafer - YouTube](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) 
+
+[Python for Machine Learning: Pandas Axis Explained | Railsware Blog](https://railsware.com/blog/python-for-machine-learning-pandas-axis-explained/) 
+ 
+[Merge, Join, Append, Concat - Pandas - YouTube](https://www.youtube.com/watch?v=g7n1MZyYjOM) 
+
+[Selecting Subsets of Data in Pandas: Part 4 | by Ted Petrou | Dunder Data | Medium](https://medium.com/dunder-data/selecting-subsets-of-data-in-pandas-part-4-c4216f84d388#:~:text=So%2C%20why%20did%20our%20assignment,it's%20own%20place%20in%20memory.)
+
+[Minimally Sufficient Pandas| by Ted Petrou | Dunder Data | Medium](https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428)
+
+[Repo for article above](https://github.com/tdpetrou/Minimally-Sufficient-Pandas)
+
+[minimally-sufficient-pandas · PyPI - Package by the author](https://pypi.org/project/minimally-sufficient-pandas/)
+
+[python - When should I (not) want to use pandas apply() in my code? - Stack Overflow](https://stackoverflow.com/questions/54432583/when-should-i-not-want-to-use-pandas-apply-in-my-code#:~:text=It%20is%20because%20apply%20is,major%20overhead%20at%20each%20iteration.) 
+ 
+[How and why to stop using pandas .apply() (so much) | by Sven Harris | Towards Data Science](https://towardsdatascience.com/avoiding-apply-ing-yourself-in-pandas-a6ade4569b7f) 
+
+[Introduction to Pandas apply, applymap and map | by B. Chen | Towards Data Science](https://towardsdatascience.com/introduction-to-pandas-apply-applymap-and-map-5d3e044e93ff)
+
+[Pandas concat() tricks you should know to speed up your data analysis | by B. Chen | Towards Data Science](https://towardsdatascience.com/pandas-concat-tricks-you-should-know-to-speed-up-your-data-analysis-cd3d4fdfe6dd)
+
+
+## Probability Distributions  
 
 [StatQuest: What is a statistical distribution? - YouTube](https://www.youtube.com/watch?v=oI3hZJqXJuc) 
 
